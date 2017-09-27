@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Fundamentals1\03.EmployeeData\bin\Debug\03.EmployeeData.exe.config
+D:\Visual Studio 2015\Fundamentals1\03.EmployeeData\bin\Debug\03.EmployeeData.exe
+D:\Visual Studio 2015\Fundamentals1\03.EmployeeData\bin\Debug\03.EmployeeData.pdb
+D:\Visual Studio 2015\Fundamentals1\03.EmployeeData\obj\Debug\03.EmployeeData.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Fundamentals1\03.EmployeeData\obj\Debug\03.EmployeeData.exe
+D:\Visual Studio 2015\Fundamentals1\03.EmployeeData\obj\Debug\03.EmployeeData.pdb
