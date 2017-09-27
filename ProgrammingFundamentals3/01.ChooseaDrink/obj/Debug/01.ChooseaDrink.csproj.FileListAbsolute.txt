@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\ProgrammingFundamentals3\01.ChooseaDrink\bin\Debug\01.ChooseaDrink.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals3\01.ChooseaDrink\obj\Debug\01.ChooseaDrink.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\ProgrammingFundamentals3\01.ChooseaDrink\bin\Debug\01.ChooseaDrink.exe
+D:\Visual Studio 2015\ProgrammingFundamentals3\01.ChooseaDrink\bin\Debug\01.ChooseaDrink.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals3\01.ChooseaDrink\obj\Debug\01.ChooseaDrink.exe
+D:\Visual Studio 2015\ProgrammingFundamentals3\01.ChooseaDrink\obj\Debug\01.ChooseaDrink.pdb

@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\ProgrammingFundamentals3\13.GameofNumbers\bin\Debug\13.GameofNumbers.exe.config

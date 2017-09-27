@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals3\10.TriangleofNumbers\bin\Debug\10.TriangleofNumbers.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals3\10.TriangleofNumbers\bin\Debug\10.TriangleofNumbers.exe
+D:\Visual Studio 2015\ProgrammingFundamentals3\10.TriangleofNumbers\bin\Debug\10.TriangleofNumbers.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals3\10.TriangleofNumbers\obj\Debug\10.TriangleofNumbers.exe
+D:\Visual Studio 2015\ProgrammingFundamentals3\10.TriangleofNumbers\obj\Debug\10.TriangleofNumbers.pdb

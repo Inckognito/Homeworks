@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\ProgrammingFundamentals3\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config

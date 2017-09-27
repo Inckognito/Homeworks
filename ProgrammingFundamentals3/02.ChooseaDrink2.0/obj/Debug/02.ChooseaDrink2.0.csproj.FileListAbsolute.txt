@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals3\02.ChooseaDrink2.0\bin\Debug\02.ChooseaDrink2.0.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals3\02.ChooseaDrink2.0\bin\Debug\02.ChooseaDrink2.0.exe
+D:\Visual Studio 2015\ProgrammingFundamentals3\02.ChooseaDrink2.0\bin\Debug\02.ChooseaDrink2.0.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals3\02.ChooseaDrink2.0\obj\Debug\02.ChooseaDrink2.0.exe
+D:\Visual Studio 2015\ProgrammingFundamentals3\02.ChooseaDrink2.0\obj\Debug\02.ChooseaDrink2.0.pdb
