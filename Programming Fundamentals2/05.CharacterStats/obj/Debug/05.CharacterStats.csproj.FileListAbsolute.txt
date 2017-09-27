@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\ProgrammingFundamentals2\05.CharacterStats\bin\Debug\05.CharacterStats.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals2\05.CharacterStats\bin\Debug\05.CharacterStats.exe
+D:\Visual Studio 2015\ProgrammingFundamentals2\05.CharacterStats\bin\Debug\05.CharacterStats.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals2\05.CharacterStats\obj\Debug\05.CharacterStats.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\ProgrammingFundamentals2\05.CharacterStats\obj\Debug\05.CharacterStats.exe
+D:\Visual Studio 2015\ProgrammingFundamentals2\05.CharacterStats\obj\Debug\05.CharacterStats.pdb

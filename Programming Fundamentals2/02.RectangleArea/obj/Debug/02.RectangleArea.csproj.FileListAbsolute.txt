@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals2\02.RectangleArea\bin\Debug\02.RectangleArea.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals2\02.RectangleArea\bin\Debug\02.RectangleArea.exe
+D:\Visual Studio 2015\ProgrammingFundamentals2\02.RectangleArea\bin\Debug\02.RectangleArea.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals2\02.RectangleArea\obj\Debug\02.RectangleArea.exe
+D:\Visual Studio 2015\ProgrammingFundamentals2\02.RectangleArea\obj\Debug\02.RectangleArea.pdb

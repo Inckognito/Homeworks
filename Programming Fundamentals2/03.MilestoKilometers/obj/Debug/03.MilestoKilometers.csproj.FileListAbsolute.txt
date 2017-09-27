@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals2\03.MilestoKilometers\bin\Debug\03.MilestoKilometers.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals2\03.MilestoKilometers\bin\Debug\03.MilestoKilometers.exe
+D:\Visual Studio 2015\ProgrammingFundamentals2\03.MilestoKilometers\bin\Debug\03.MilestoKilometers.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals2\03.MilestoKilometers\obj\Debug\03.MilestoKilometers.exe
+D:\Visual Studio 2015\ProgrammingFundamentals2\03.MilestoKilometers\obj\Debug\03.MilestoKilometers.pdb
