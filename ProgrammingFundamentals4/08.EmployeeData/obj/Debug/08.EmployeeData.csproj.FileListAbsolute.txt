@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\08.EmployeeData\bin\Debug\08.EmployeeData.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\08.EmployeeData\bin\Debug\08.EmployeeData.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\08.EmployeeData\bin\Debug\08.EmployeeData.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals4\08.EmployeeData\obj\Debug\08.EmployeeData.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\08.EmployeeData\obj\Debug\08.EmployeeData.pdb

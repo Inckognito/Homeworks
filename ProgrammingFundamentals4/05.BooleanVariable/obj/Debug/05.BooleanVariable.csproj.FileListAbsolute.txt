@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals4\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

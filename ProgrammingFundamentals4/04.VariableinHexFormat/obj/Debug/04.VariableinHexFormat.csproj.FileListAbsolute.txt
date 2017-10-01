@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\04.VariableinHexFormat\bin\Debug\04.VariableinHexFormat.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\04.VariableinHexFormat\bin\Debug\04.VariableinHexFormat.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\04.VariableinHexFormat\bin\Debug\04.VariableinHexFormat.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals4\04.VariableinHexFormat\obj\Debug\04.VariableinHexFormat.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\04.VariableinHexFormat\obj\Debug\04.VariableinHexFormat.pdb

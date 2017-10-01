@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\03.PracticeCharsAndStrings\bin\Debug\03.PracticeCharsAndStrings.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals4\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\03.PracticeCharsAndStrings\obj\Debug\03.PracticeCharsAndStrings.pdb

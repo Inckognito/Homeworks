@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals4\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

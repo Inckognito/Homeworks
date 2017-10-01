@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\09.Reversedchars\bin\Debug\09.Reversedchars.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\09.Reversedchars\bin\Debug\09.Reversedchars.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\09.Reversedchars\bin\Debug\09.Reversedchars.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals4\09.Reversedchars\obj\Debug\09.Reversedchars.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\09.Reversedchars\obj\Debug\09.Reversedchars.pdb

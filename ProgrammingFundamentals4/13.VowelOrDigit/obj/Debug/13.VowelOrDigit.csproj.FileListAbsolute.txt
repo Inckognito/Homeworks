@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config

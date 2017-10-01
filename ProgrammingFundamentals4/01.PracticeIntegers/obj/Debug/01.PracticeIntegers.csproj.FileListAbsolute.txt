@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\01.PracticeIntegers\bin\Debug\01.PracticeIntegers.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\01.PracticeIntegers\bin\Debug\01.PracticeIntegers.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\01.PracticeIntegers\bin\Debug\01.PracticeIntegers.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals4\01.PracticeIntegers\obj\Debug\01.PracticeIntegers.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\ProgrammingFundamentals4\01.PracticeIntegers\obj\Debug\01.PracticeIntegers.exe
+D:\Visual Studio 2015\ProgrammingFundamentals4\01.PracticeIntegers\obj\Debug\01.PracticeIntegers.pdb

@@ -1,0 +1,2 @@
+D:\Visual Studio 2015\ProgrammingFundamentals4\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals4\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.csprojResolveAssemblyReference.cache
