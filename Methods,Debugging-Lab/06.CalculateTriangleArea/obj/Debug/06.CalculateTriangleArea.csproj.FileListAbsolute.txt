@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\06.CalculateTriangleArea\obj\Debug\06.CalculateTriangleArea.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\06.CalculateTriangleArea\obj\Debug\06.CalculateTriangleArea.pdb

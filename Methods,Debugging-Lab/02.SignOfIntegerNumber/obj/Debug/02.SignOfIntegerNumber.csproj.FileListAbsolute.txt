@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\02.SignOfIntegerNumber\bin\Debug\02.SignOfIntegerNumber.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\02.SignOfIntegerNumber\obj\Debug\02.SignOfIntegerNumber.pdb

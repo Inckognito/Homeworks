@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\08.GreaterOfTwoValues\bin\Debug\08.GreaterOfTwoValues.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\08.GreaterOfTwoValues\bin\Debug\08.GreaterOfTwoValues.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\08.GreaterOfTwoValues\bin\Debug\08.GreaterOfTwoValues.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\08.GreaterOfTwoValues\obj\Debug\08.GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Methods,Debugging-Lab\08.GreaterOfTwoValues\obj\Debug\08.GreaterOfTwoValues.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\08.GreaterOfTwoValues\obj\Debug\08.GreaterOfTwoValues.pdb

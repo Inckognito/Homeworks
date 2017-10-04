@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\01.BlankReceiptt\bin\Debug\01.BlankReceiptt.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\01.BlankReceiptt\bin\Debug\01.BlankReceiptt.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\01.BlankReceiptt\bin\Debug\01.BlankReceiptt.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\01.BlankReceiptt\obj\Debug\01.BlankReceiptt.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Methods,Debugging-Lab\01.BlankReceiptt\obj\Debug\01.BlankReceiptt.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\01.BlankReceiptt\obj\Debug\01.BlankReceiptt.pdb

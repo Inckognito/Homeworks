@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\11.PriceChangeAlert\bin\Debug\11.PriceChangeAlert.exe.config

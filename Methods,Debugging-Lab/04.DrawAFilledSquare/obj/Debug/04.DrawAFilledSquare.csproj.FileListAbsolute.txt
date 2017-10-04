@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.pdb

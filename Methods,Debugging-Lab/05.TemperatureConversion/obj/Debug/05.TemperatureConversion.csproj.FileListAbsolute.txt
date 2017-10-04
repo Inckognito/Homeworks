@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\05.TemperatureConversion\bin\Debug\05.TemperatureConversion.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\05.TemperatureConversion\bin\Debug\05.TemperatureConversion.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\05.TemperatureConversion\bin\Debug\05.TemperatureConversion.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\05.TemperatureConversion\obj\Debug\05.TemperatureConversion.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\05.TemperatureConversion\obj\Debug\05.TemperatureConversion.pdb

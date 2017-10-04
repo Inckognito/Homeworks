@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\07.MathPower\bin\Debug\07.MathPower.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\07.MathPower\bin\Debug\07.MathPower.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\07.MathPower\bin\Debug\07.MathPower.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\07.MathPower\obj\Debug\07.MathPower.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\07.MathPower\obj\Debug\07.MathPower.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Methods,Debugging-Lab\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe.config
+D:\Visual Studio 2015\Methods,Debugging-Lab\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\03.PrintingTriangle\bin\Debug\03.PrintingTriangle.pdb
+D:\Visual Studio 2015\Methods,Debugging-Lab\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.exe
+D:\Visual Studio 2015\Methods,Debugging-Lab\03.PrintingTriangle\obj\Debug\03.PrintingTriangle.pdb
