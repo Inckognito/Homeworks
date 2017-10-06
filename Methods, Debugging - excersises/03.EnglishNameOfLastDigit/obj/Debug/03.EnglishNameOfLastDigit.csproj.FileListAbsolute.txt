@@ -1,6 +1,0 @@
-D:\Visual Studio 2015\ProgrammingFundamentals5\03.EnglishNameOfLastDigit\bin\Debug\03.EnglishNameOfLastDigit.exe.config
-D:\Visual Studio 2015\ProgrammingFundamentals5\03.EnglishNameOfLastDigit\bin\Debug\03.EnglishNameOfLastDigit.exe
-D:\Visual Studio 2015\ProgrammingFundamentals5\03.EnglishNameOfLastDigit\bin\Debug\03.EnglishNameOfLastDigit.pdb
-D:\Visual Studio 2015\ProgrammingFundamentals5\03.EnglishNameOfLastDigit\obj\Debug\03.EnglishNameOfLastDigit.csprojResolveAssemblyReference.cache
-D:\Visual Studio 2015\ProgrammingFundamentals5\03.EnglishNameOfLastDigit\obj\Debug\03.EnglishNameOfLastDigit.exe
-D:\Visual Studio 2015\ProgrammingFundamentals5\03.EnglishNameOfLastDigit\obj\Debug\03.EnglishNameOfLastDigit.pdb

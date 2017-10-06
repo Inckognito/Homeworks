@@ -1,1 +1,0 @@
-D:\Visual Studio 2015\ProgrammingFundamentals5\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe.config

@@ -1,5 +1,0 @@
-D:\Visual Studio 2015\ProgrammingFundamentals5\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.exe.config
-D:\Visual Studio 2015\ProgrammingFundamentals5\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.exe
-D:\Visual Studio 2015\ProgrammingFundamentals5\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.pdb
-D:\Visual Studio 2015\ProgrammingFundamentals5\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.exe
-D:\Visual Studio 2015\ProgrammingFundamentals5\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.pdb

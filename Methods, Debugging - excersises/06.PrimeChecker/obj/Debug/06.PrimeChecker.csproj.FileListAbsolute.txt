@@ -1,5 +1,0 @@
-D:\Visual Studio 2015\ProgrammingFundamentals5\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe.config
-D:\Visual Studio 2015\ProgrammingFundamentals5\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe
-D:\Visual Studio 2015\ProgrammingFundamentals5\06.PrimeChecker\bin\Debug\06.PrimeChecker.pdb
-D:\Visual Studio 2015\ProgrammingFundamentals5\06.PrimeChecker\obj\Debug\06.PrimeChecker.exe
-D:\Visual Studio 2015\ProgrammingFundamentals5\06.PrimeChecker\obj\Debug\06.PrimeChecker.pdb
