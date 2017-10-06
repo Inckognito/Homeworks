@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\ProgrammingFundamentals5\10.CubeProperties\bin\Debug\10.CubeProperties.exe.config
+D:\Visual Studio 2015\ProgrammingFundamentals5\10.CubeProperties\bin\Debug\10.CubeProperties.exe
+D:\Visual Studio 2015\ProgrammingFundamentals5\10.CubeProperties\bin\Debug\10.CubeProperties.pdb
+D:\Visual Studio 2015\ProgrammingFundamentals5\10.CubeProperties\obj\Debug\10.CubeProperties.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\ProgrammingFundamentals5\10.CubeProperties\obj\Debug\10.CubeProperties.exe
+D:\Visual Studio 2015\ProgrammingFundamentals5\10.CubeProperties\obj\Debug\10.CubeProperties.pdb
