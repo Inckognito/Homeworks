@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\ListsExcersises\04.LongestIncreasingSubsequence\bin\Debug\04.LongestIncreasingSubsequence.exe.config
