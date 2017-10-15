@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Dictionaries,LambdaAndLINQ-Exercises\09.LegendaryFarming\bin\Debug\09.LegendaryFarming.exe.config

@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Dictionaries,LambdaAndLINQ-Exercises\04.FixEmails\bin\Debug\04.FixEmails.exe.config

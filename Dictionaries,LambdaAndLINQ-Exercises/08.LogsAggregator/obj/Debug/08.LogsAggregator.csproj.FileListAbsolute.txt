@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Dictionaries,LambdaAndLINQ-Exercises\08.LogsAggregator\bin\Debug\08.LogsAggregator.exe.config

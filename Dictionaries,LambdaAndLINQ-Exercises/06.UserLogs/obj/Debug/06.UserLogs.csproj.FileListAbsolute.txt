@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Dictionaries,LambdaAndLINQ-Exercises\06.UserLogs\bin\Debug\06.UserLogs.exe.config

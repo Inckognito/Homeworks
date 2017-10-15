@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Dictionaries,LambdaAndLINQ-Exercises\02.PhonebookUpgrade\bin\Debug\02.PhonebookUpgrade.exe.config

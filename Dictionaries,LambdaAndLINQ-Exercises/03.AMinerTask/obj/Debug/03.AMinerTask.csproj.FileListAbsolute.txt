@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Dictionaries,LambdaAndLINQ-Exercises\03.AMinerTask\bin\Debug\03.AMinerTask.exe.config
