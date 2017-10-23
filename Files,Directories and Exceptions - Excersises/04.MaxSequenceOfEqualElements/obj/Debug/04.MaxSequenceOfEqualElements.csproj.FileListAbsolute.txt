@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\04.MaxSequenceOfEqualElements\bin\Debug\04.MaxSequenceOfEqualElements.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\04.MaxSequenceOfEqualElements\bin\Debug\04.MaxSequenceOfEqualElements.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\04.MaxSequenceOfEqualElements\bin\Debug\04.MaxSequenceOfEqualElements.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\04.MaxSequenceOfEqualElements\obj\Debug\04.MaxSequenceOfEqualElements.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\04.MaxSequenceOfEqualElements\obj\Debug\04.MaxSequenceOfEqualElements.pdb

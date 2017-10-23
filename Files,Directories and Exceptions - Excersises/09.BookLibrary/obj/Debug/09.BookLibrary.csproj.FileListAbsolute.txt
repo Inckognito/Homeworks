@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\09.BookLibrary\bin\Debug\09.BookLibrary.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\09.BookLibrary\bin\Debug\09.BookLibrary.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\09.BookLibrary\bin\Debug\09.BookLibrary.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\09.BookLibrary\obj\Debug\09.BookLibrary.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\09.BookLibrary\obj\Debug\09.BookLibrary.pdb

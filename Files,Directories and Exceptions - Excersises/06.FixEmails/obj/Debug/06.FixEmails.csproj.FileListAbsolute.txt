@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\06.FixEmails\bin\Debug\06.FixEmails.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\06.FixEmails\bin\Debug\06.FixEmails.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\06.FixEmails\bin\Debug\06.FixEmails.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\06.FixEmails\obj\Debug\06.FixEmails.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\06.FixEmails\obj\Debug\06.FixEmails.pdb

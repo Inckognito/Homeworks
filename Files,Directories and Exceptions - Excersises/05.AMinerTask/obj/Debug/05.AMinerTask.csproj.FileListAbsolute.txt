@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\05.AMinerTask\bin\Debug\05.AMinerTask.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\05.AMinerTask\bin\Debug\05.AMinerTask.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\05.AMinerTask\bin\Debug\05.AMinerTask.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\05.AMinerTask\obj\Debug\05.AMinerTask.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\05.AMinerTask\obj\Debug\05.AMinerTask.pdb

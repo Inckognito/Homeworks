@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\08.AverageGrades\bin\Debug\08.AverageGrades.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\08.AverageGrades\bin\Debug\08.AverageGrades.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\08.AverageGrades\bin\Debug\08.AverageGrades.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\08.AverageGrades\obj\Debug\08.AverageGrades.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\08.AverageGrades\obj\Debug\08.AverageGrades.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\02.IndexOfLetters\bin\Debug\02.IndexOfLetters.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\02.IndexOfLetters\bin\Debug\02.IndexOfLetters.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\02.IndexOfLetters\bin\Debug\02.IndexOfLetters.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\02.IndexOfLetters\obj\Debug\02.IndexOfLetters.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\02.IndexOfLetters\obj\Debug\02.IndexOfLetters.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\02.IndexOfLetters\obj\Debug\02.IndexOfLetters.csprojResolveAssemblyReference.cache

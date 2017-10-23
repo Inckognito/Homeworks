@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\07.AdvertisementMessage\bin\Debug\07.AdvertisementMessage.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\07.AdvertisementMessage\bin\Debug\07.AdvertisementMessage.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\07.AdvertisementMessage\bin\Debug\07.AdvertisementMessage.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\07.AdvertisementMessage\obj\Debug\07.AdvertisementMessage.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\07.AdvertisementMessage\obj\Debug\07.AdvertisementMessage.pdb

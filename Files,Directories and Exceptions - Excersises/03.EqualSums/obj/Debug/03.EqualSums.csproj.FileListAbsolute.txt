@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\03.EqualSums\bin\Debug\03.EqualSums.exe.config
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\03.EqualSums\bin\Debug\03.EqualSums.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\03.EqualSums\bin\Debug\03.EqualSums.pdb
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\03.EqualSums\obj\Debug\03.EqualSums.exe
+D:\Visual Studio 2015\Files,Directories and Exceptions - Excersises\03.EqualSums\obj\Debug\03.EqualSums.pdb
