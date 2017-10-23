@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Strings and Text Processing - Lab\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+D:\Visual Studio 2015\Strings and Text Processing - Lab\01.ReverseString\bin\Debug\01.ReverseString.exe
+D:\Visual Studio 2015\Strings and Text Processing - Lab\01.ReverseString\bin\Debug\01.ReverseString.pdb
+D:\Visual Studio 2015\Strings and Text Processing - Lab\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Strings and Text Processing - Lab\01.ReverseString\obj\Debug\01.ReverseString.exe
+D:\Visual Studio 2015\Strings and Text Processing - Lab\01.ReverseString\obj\Debug\01.ReverseString.pdb
