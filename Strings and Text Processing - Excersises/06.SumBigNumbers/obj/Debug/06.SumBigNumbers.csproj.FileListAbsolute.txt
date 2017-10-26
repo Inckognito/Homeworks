@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Strings and Text Processing - Excersises\06.SumBigNumbers\bin\Debug\06.SumBigNumbers.exe.config

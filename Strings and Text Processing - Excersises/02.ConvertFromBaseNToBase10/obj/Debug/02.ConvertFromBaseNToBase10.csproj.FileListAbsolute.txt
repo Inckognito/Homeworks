@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Strings and Text Processing - Excersises\02.ConvertFromBaseNToBase10\bin\Debug\02.ConvertFromBaseNToBase10.exe.config

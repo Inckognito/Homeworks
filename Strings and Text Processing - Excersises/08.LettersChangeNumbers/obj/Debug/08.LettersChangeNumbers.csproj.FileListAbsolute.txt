@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Strings and Text Processing - Excersises\08.LettersChangeNumbers\bin\Debug\08.LettersChangeNumbers.exe.config

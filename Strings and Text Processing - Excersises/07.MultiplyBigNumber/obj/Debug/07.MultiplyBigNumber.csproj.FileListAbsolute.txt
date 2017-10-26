@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Strings and Text Processing - Excersises\07.MultiplyBigNumber\bin\Debug\07.MultiplyBigNumber.exe.config
