@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Lab\03.MatchHexadecimalNumbers\bin\Debug\03.MatchHexadecimalNumbers.exe.config
