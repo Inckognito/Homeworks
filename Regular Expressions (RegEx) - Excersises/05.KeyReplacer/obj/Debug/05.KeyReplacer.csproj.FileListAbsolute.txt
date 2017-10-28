@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\05.KeyReplacer\bin\Debug\05.KeyReplacer.exe.config

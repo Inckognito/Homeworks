@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe.config

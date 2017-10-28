@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\02.ExtractSentencesByKeyword\bin\Debug\02.ExtractSentencesByKeyword.exe.config

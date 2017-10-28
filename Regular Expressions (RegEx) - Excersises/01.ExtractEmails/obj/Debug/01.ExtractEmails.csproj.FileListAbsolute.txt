@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\01.ExtractEmails\bin\Debug\01.ExtractEmails.exe.config
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\01.ExtractEmails\bin\Debug\01.ExtractEmails.exe
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\01.ExtractEmails\bin\Debug\01.ExtractEmails.pdb
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\01.ExtractEmails\obj\Debug\01.ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\01.ExtractEmails\obj\Debug\01.ExtractEmails.exe
+D:\Visual Studio 2015\Regular Expressions (RegEx) - Excersises\01.ExtractEmails\obj\Debug\01.ExtractEmails.pdb
